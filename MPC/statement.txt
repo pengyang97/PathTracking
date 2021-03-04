@@ -1,0 +1,1 @@
+1、在进行matlab与carsim进行联合仿真的时，文件MY_MPCController3.m和MPC_test1.mdl分别是设计的MPC控制器文件和simulink仿真文件，这两个文件是配合在一起使用的。
